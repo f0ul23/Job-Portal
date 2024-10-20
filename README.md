@@ -1,5 +1,5 @@
 #Welcome the first page of the job portal website
-![image url](https://github.com/f0ul23/Job-Portal/blob/5489e45b0549620bea603d7fe7059d1537696244/host.png)
+![image url](https://github.com/f0ul23/Job-Portal/blob/871179844e605461e5b8a06e2a8e93fd7b494614/host.png)
 
 #signUp page
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/20dba36fa23cd7ebce4d9cff8d363d33157d232e/signup2.png)
