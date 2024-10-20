@@ -10,5 +10,8 @@
 #search for jobs
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/0b8aa4538a55f06476bf9e41fbc6884221ae4f96/search.png)
 
+#terms and conditions demo
+![image alt](https://github.com/f0ul23/Job-Portal/blob/6f2eb8f486303a4a697e743d511bc6e4ba1a4525/terms.png)
+
 #the hiring page
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/82e44df1fbee11285fc4444e21615d93ba8e1f9b/employers.png)
