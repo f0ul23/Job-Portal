@@ -4,5 +4,8 @@
 #signUp page
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/e9c05bd6ec195b4bef68c95eff1cbb45959b57bd/signup.png)
 
+#Success page
+![image alt](https://github.com/f0ul23/Job-Portal/blob/c14a59358388fb5bf9203a3bcf89609a58564a33/success.png)
+
 #the hiring page
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/82e44df1fbee11285fc4444e21615d93ba8e1f9b/employers.png)
