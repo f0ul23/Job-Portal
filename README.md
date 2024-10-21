@@ -5,7 +5,7 @@
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/20dba36fa23cd7ebce4d9cff8d363d33157d232e/signup2.png)
 
 #Success page
-![image alt](https://github.com/f0ul23/Job-Portal/blob/c14a59358388fb5bf9203a3bcf89609a58564a33/success.png)
+![image alt]()
 
 #login page
 ![image alt](https://github.com/f0ul23/Job-Portal/blob/0aa8af0fd1e3737ace07349374d94ad9606d265a/login2.png)
